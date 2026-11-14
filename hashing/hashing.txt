@@ -1,0 +1,5 @@
+hashing in python
+
+prestoring values into some datastructure like list/dic/sets and then fetching it
+
+it avoids time limit extent error TLE 

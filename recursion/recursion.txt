@@ -1,0 +1,11 @@
+when funciton calls it self
+
+987 recursion calls
+
+syntax
+
+def func()
+    if condition
+        return
+
+    func()

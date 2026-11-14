@@ -1,0 +1,3 @@
+ll gives an option to allocate memory at runtime
+non-contigeous memory allocation
+
