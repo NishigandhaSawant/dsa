@@ -10,4 +10,4 @@ class Solution:
                 result.append(num)
                 counts[num] -= 1
 
-        return result
+        return result   

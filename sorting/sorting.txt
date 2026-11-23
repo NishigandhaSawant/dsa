@@ -1,0 +1,3 @@
+#selction sort
+#bubble sort
+#sortin can be ascending and desecnding both
